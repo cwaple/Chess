@@ -4,4 +4,3 @@ board = ChessBoard.new
 
 board.clear_board
 
-
